@@ -1,0 +1,6 @@
+{
+  "name": "स्वामी ट्रांसपोर्ट मैनेजर - Swami Transport Manager",
+  "description": "26 ट्रकों के बेड़े के लिए पूर्ण हिंदी ट्रांसपोर्ट मैनेजमेंट सिस्टम - ड्राइवर डिजिटल कच्चा चिट्ठा और मालिक डैशबोर्ड",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
